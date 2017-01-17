@@ -1,3 +1,5 @@
+/*testing testing 1, 2, 3*/
+
 * {
     box-sizing: border-box
 }
@@ -58,6 +60,7 @@ body {
 }
 
 .search-bar {
+  margin: 0 auto;
   padding: 10px 15px;
   width: 40%;
 }
@@ -111,6 +114,11 @@ body {
 .sample-image {
   width: 33.3333%;
 }
+
+.search-bar {
+  margin: 0;
+}
+
 }
 
 @media screen and (min-width:992px) {
